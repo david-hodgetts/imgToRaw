@@ -22,7 +22,7 @@ int
 main(int argc, char const *argv[])
 {
     if(argc != 2){
-        puts("imgToRaw\nError expects one argument, a path to an image file");
+        puts("img2Raw\nError expects one argument, a path to an image file");
         return 1;    
     }
 
